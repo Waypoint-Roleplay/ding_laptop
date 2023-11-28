@@ -17,7 +17,8 @@ If you've read all of that, here is what this resource currently offers
 2. Racing App - Get sweaty and try hard with the boys and grills.
 3. Carboosting - Break the law and have some fun doing it too! The higher up the chain you go, the harder it gets.
 4. Ability to have your own unique desktop background! Can be changed in your laptop's settings.
-5. Might find a drone resource in the near future to plug and play into the logic that I never finished, if you've got something and want to plug it in go for it! Follow the format I used for the racing and carboosting app and it'll work.
+5. Elevator logic for hidden shops
+6. Might find a drone resource in the near future to plug and play into the logic that I never finished, if you've got something and want to plug it in go for it! Follow the format I used for the racing and carboosting app and it'll work.
 
 
 Special thanks to BackSh00ter, AJ and YerboyC for helping me on my journey with Fivem Development.
